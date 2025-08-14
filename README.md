@@ -17,10 +17,13 @@ Now I’m focused on clean UIs, reliable APIs, and tools that save time.
 
 ---
 
-## 🚀 Featured Projects  
-- [**Weather Dashboard**](https://github.com/YOUR-USERNAME/weather-dashboard) – JS + Weather API, responsive UI, favorites & localStorage  
-- [**Canva With Kim**](https://github.com/YOUR-USERNAME/canva-with-kim) – Hands-on design projects for beginners  
-- [**Side Hustler’s Playbook**](https://github.com/YOUR-USERNAME/side-hustlers-playbook) – Guide to creating and selling ebooks for profit  
+##  Featured Projects
+- [**Zombie Brain Freeze**](https://github.com/kimdevpro/Zombie-Brain-Freeze) – A Unity-based zombie-themed hangman game where players must guess words to keep their brains from being eaten. Brings together C# gameplay logic with fun visuals and sound.
+
+- [**Battleship CLI App**](https://github.com/kimdevpro/battleship-cli-app) – A command-line version of Battleship built in Node.js. Includes dynamic game board, ship placement logic, and interactive terminal gameplay.
+
+- [**JS Interactive Website**](https://github.com/kimdevpro/js-interactive-website) – A responsive, interactive site built with HTML, CSS, and JavaScript. Showcases front-end functionality and clean design.
+
 
 ---
 
