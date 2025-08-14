@@ -7,9 +7,6 @@ I build modern, efficient web solutions and practical automation. I’ve spent m
 
 ## Featured Projects
 - **Weather Dashboard** — JS + Weather API, responsive UI, favorites & localStorage  
-- **M365 PowerShell Toolkit** — Scripts for bulk admin tasks & log parsing  
-- **Python Automation Snippets** — Small utilities for data cleanup & reporting  
-- **Identity Manager Helpers** — Notes/flows for ISIM/TDI work
 
 ## Tech
 - **Frontend:** HTML, CSS, JavaScript  
